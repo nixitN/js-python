@@ -1,2 +1,2 @@
-# js_vs_python
-JS practice codes rewrite in own Python codes.
+# JavaScript vs Python
+- JS practice codes rewrite in own Python codes.
