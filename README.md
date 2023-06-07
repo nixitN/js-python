@@ -1,2 +1,3 @@
 # JavaScript vs Python
-- JS practice codes rewrite in own Python codes.
+*JS practice codes rewrite in own Python codes. It is mainly a practice opportunity for me to see how big the difference is between the two languages. And I will learn to program in the Python language.*
+- **Simpler codes:** Chaining if else, SUM...
